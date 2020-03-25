@@ -71,7 +71,7 @@ if(isset($_REQUEST['add']))
 </head>
 <body>
 	<?php include('header.php'); ?>
-<div class="container-fluid">
+<div class="container-fluid"> 
 	<div class="row">
 		<div class="col-sm-12">
 			<form action="index.php" method="post">
